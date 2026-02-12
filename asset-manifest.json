@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d18d0cc8.css",
-    "main.js": "/static/js/main.06862edf.js",
+    "main.css": "/static/css/main.ef31c362.css",
+    "main.js": "/static/js/main.e3511967.js",
     "static/js/453.64a1d971.chunk.js": "/static/js/453.64a1d971.chunk.js",
+    "static/media/corvette.jpg": "/static/media/corvette.819d96eecadc21215fe4.jpg",
+    "static/media/corvette_f.jpg": "/static/media/corvette_f.4026680216d57ec7d14d.jpg",
     "index.html": "/index.html",
-    "main.d18d0cc8.css.map": "/static/css/main.d18d0cc8.css.map",
-    "main.06862edf.js.map": "/static/js/main.06862edf.js.map",
+    "main.ef31c362.css.map": "/static/css/main.ef31c362.css.map",
+    "main.e3511967.js.map": "/static/js/main.e3511967.js.map",
     "453.64a1d971.chunk.js.map": "/static/js/453.64a1d971.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d18d0cc8.css",
-    "static/js/main.06862edf.js"
+    "static/css/main.ef31c362.css",
+    "static/js/main.e3511967.js"
   ]
 }
