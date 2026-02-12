@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kpicas-react/static/css/main.763bc9e0.css",
-    "main.js": "/kpicas-react/static/js/main.2c28d217.js",
-    "static/js/453.64a1d971.chunk.js": "/kpicas-react/static/js/453.64a1d971.chunk.js",
-    "index.html": "/kpicas-react/index.html",
-    "main.763bc9e0.css.map": "/kpicas-react/static/css/main.763bc9e0.css.map",
-    "main.2c28d217.js.map": "/kpicas-react/static/js/main.2c28d217.js.map",
-    "453.64a1d971.chunk.js.map": "/kpicas-react/static/js/453.64a1d971.chunk.js.map"
+    "main.css": "/static/css/main.763bc9e0.css",
+    "main.js": "/static/js/main.8aa08999.js",
+    "static/js/453.64a1d971.chunk.js": "/static/js/453.64a1d971.chunk.js",
+    "index.html": "/index.html",
+    "main.763bc9e0.css.map": "/static/css/main.763bc9e0.css.map",
+    "main.8aa08999.js.map": "/static/js/main.8aa08999.js.map",
+    "453.64a1d971.chunk.js.map": "/static/js/453.64a1d971.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.763bc9e0.css",
-    "static/js/main.2c28d217.js"
+    "static/js/main.8aa08999.js"
   ]
 }
